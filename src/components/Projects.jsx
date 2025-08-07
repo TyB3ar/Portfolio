@@ -1,14 +1,14 @@
 export default function Projects() {
   const projects = [
     {
-      title: "E-Commerce App",
-      description: "A full-featured shopping app with authentication, Firestore, and cart checkout.",
-      link: "#",
+      title: "E-Commerce Product Management App",
+      description: "A full-featured product management app with authentication, Firestore, and cart checkout.",
+      link: "https://github.com/TyB3ar/E-Commerce-App-",
     },
     {
-      title: "Portfolio Site",
-      description: "This very portfolio! Built with React, Vite, and Tailwind CSS.",
-      link: "#",
+      title: "Task Management App",
+      description: "A modern task management application built with React, TypeScript, and Auth0. TaskTracker provides a secure, responsive, and user-friendly dashboard for creating, editing, viewing, and managing tasks.",
+      link: "https://github.com/TyB3ar/Task-Management-App",
     },
   ];
 
