@@ -10,6 +10,11 @@ export default function Projects() {
       description: "A modern task management application built with React, TypeScript, and Auth0. TaskTracker provides a secure, responsive, and user-friendly dashboard for creating, editing, viewing, and managing tasks.",
       link: "https://github.com/TyB3ar/Task-Management-App",
     },
+    {
+      title: "Event Center Website",
+      description: "A simple, yet elegent re-creation of a website built for Paypal Park, home of the San Jose Earthquakes! Built with just HTML and CSS.",
+      link: "https://event-center-project.netlify.app/",
+    },
   ];
 
   return (
