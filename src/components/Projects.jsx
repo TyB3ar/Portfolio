@@ -13,7 +13,7 @@ export default function Projects() {
     {
       title: "Event Center Website",
       description: "A simple, yet elegent re-creation of a website built for Paypal Park, home of the San Jose Earthquakes! Built with just HTML and CSS.",
-      link: "https://event-center-project.netlify.app/",
+      link: "https://event-center-copy.netlify.app/",
     },
   ];
 
